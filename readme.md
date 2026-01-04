@@ -136,7 +136,7 @@ streamlit run frontend/app.py
 
 ---
 
-# Notes for Instructor / TA
+# Notes
 - `.env` and `.venv` are excluded from version control.
 - **Reproducibility:** The Vectorstore is reproducible by running `python -m rag.ingest` with the provided PDFs.
 - **Data Source:** The system is fully grounded in the course report PDFs; no external web scraping or RSS aggregation is used.
